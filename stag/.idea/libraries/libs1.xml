@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/__MACOSX/stag/libs/._json-parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/stag/libs/._dot-parser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
